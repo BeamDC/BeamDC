@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeamDC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus) 
+![C](https://img.shields.io/badge/C-purple?style=for-the-badge&logo=c) 
+![Rust](https://img.shields.io/badge/Rust-yellow?style=for-the-badge&logo=rust)  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeamDC&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!--
 **BeamDC/BeamDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
