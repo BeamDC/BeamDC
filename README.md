@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello :)
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus) 
 ![C](https://img.shields.io/badge/C-gray?style=for-the-badge&logo=c) 
