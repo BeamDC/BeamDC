@@ -1,6 +1,6 @@
 ## hello :)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeamDC&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeamDC&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
 ## Favourite Languages
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus) 
