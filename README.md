@@ -1,6 +1,10 @@
 ## hello :)
 
+<!--https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#language-card-exclusive-options-->
+
 ![](https://github-readme-stats-fork-beamdcs-projects.vercel.app/api/top-langs/?username=BeamDC&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=github-readme-stats-fork,stats-fork&hide=RenderScript)
+
+
 <!--
 ## Favourite Languages
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus) 
