@@ -1,6 +1,6 @@
 ## hello :)
 
-![](https://github-readme-stats-fork-beamdcs-projects.vercel.app/api/top-langs/?username=BeamDC&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=javascript)
+![](https://github-readme-stats-fork-beamdcs-projects.vercel.app/api/top-langs/?username=BeamDC&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=github-readme-stats-fork)
 <!--
 ## Favourite Languages
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus) 
