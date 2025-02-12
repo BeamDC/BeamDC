@@ -11,3 +11,10 @@
 ![C](https://img.shields.io/badge/C-gray?style=for-the-badge&logo=c) 
 ![Rust](https://img.shields.io/badge/Rust-darkorange?style=for-the-badge&logo=rust)  
 -->
+
+ ## Planned Projects
+
+I need to track these somehow :P
+
+> - Programming Language (In Progress) 
+> - 3D Engine (TODO)
