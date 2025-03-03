@@ -6,8 +6,11 @@ I need to track these somehow :P
 > - 3D Engine (In Progress)
 > - calculating pi with collisions (TODO)
 >   - https://youtu.be/jsYwFizhncE?si=vHPfSmTBkbBdpy9b
-> - graphing calc. & math library (TODO)
+> - graphing calc. & math library (In Progress)
 > - infinite fractal viewer (TODO)
+> - Compiler Viewer (TODO)
+>   - graphical representation of the phases of a compiler
+>   - implements a simple language which the use can write in
 > - AI (TODO)
 >   - This will likely be a StarCraft 2 bot
 >   - a (possibly) fun intro to ML and whatnot
