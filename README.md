@@ -1,16 +1,13 @@
+## Currently Working On
+
+> - Programming Language
+> - Splitter Calculator
+>   - a tool for building ideal load balancers in Satisfactory
+
 ## Planned Projects
 
 I need to track these somehow :P
 
-> - Programming Language (In Progress) 
-> - 3D Engine (In Progress)
-> - calculating pi with collisions (TODO)
+> - calculating pi with collisions
 >   - https://youtu.be/jsYwFizhncE?si=vHPfSmTBkbBdpy9b
-> - graphing calc. & math library (In Progress)
-> - infinite fractal viewer (TODO)
-> - Compiler Viewer (TODO)
->   - graphical representation of the phases of a compiler
->   - implements a simple language which the use can write in
-> - AI (TODO)
->   - This will likely be a StarCraft 2 bot
->   - a (possibly) fun intro to ML and whatnot
+> - infinite fractal viewer
