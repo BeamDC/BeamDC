@@ -1,8 +1,7 @@
 ## Currently Working On
 
 > - Programming Language
-> - Splitter Calculator
->   - a tool for building ideal load balancers in Satisfactory
+> - Game Engine
 
 ## Planned Projects
 
