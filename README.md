@@ -3,6 +3,7 @@
 > - Programming Language 
 > - File Archiver
 > - Game Engine
+> - SC2 Bot 
 
 ## Planned Projects
 
