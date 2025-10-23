@@ -1,7 +1,7 @@
 ## Currently Working On
 
 > - Programming Language
-> - Math Tool
+> - game dialogue tree planner
 
 ## Planned / Paused Projects 
 
