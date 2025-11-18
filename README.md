@@ -4,6 +4,6 @@
 > - Game Engine
 
 ## Planned / Paused Projects 
-<small><span style="color: red;">I need to track these somehow :P</span></small>
+<small><span style="color: grey;">I need to track these somehow :P</span></small>
 > - File Archiver
 > - SC2 Bot 
