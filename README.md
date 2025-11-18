@@ -1,11 +1,9 @@
 ## Currently Working On
 
 > - Programming Language
-> - game dialogue tree planner
+> - Game Engine
 
 ## Planned / Paused Projects 
-
-#### I need to track these somehow :P
+<small><span style="color: grey;">I need to track these somehow :P </span></small>
 > - File Archiver
-> - Game Engine
 > - SC2 Bot 
